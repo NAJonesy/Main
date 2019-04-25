@@ -28,6 +28,10 @@ Languages:
 * Ruby - This is the newest language to me. 
   * Most of my exposure has been gaining an understanding of anothers code and fixing/refactoring what I can.
    
+Operating Systems:
+* Windows - I grew up with Windows and have Windows 10 on my personal PC that I built
+* MAC - I had to use a MAC for the first time working for DISH. I've grow to love it
+* Linux - I don't have a ton of experience with linux. I've had different virtual machines and have a laptop that I've installed Mint onto, I also have to telnet/shh onto machines that are linux based for work.
 
 ## Work
 
@@ -72,6 +76,7 @@ Data Verification Automation
 * Networking
   * Setting up and maintaining racks of set top boxes
   * Testing of networking changes to detect problems before they're problems
+  * Working with AWS to have consistent cloud services
   
   
 ## Courses
